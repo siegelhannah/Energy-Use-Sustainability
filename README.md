@@ -7,4 +7,4 @@ Includes:
 - Predictive model training/cross-validation, model selection
 - Both supervised and unsupervised techniques
 
-This project was assigned for DSCI 311 but completely self-led/open-ended. I found my data, built my analysis workflow, and processed, manipulated, analyzed, and predicted on the dataset with no guidance.
+This project was assigned for DSCI 311 at the University of Oregon but completely self-led/open-ended. I found my data, built my analysis workflow, and processed, manipulated, analyzed, and predicted on the dataset with no guidance.
